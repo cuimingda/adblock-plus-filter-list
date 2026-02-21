@@ -1,6 +1,9 @@
 # Network Probe Filters for Adblock Plus
 
-1. 打开`Adblock Plus`的`Options`页面
-2. 进入`Advanced`子页面
-3. 点击`ADD FILTER LIST VIA URL`按钮
-4. 填写`https://raw.githubusercontent.com/cuimingda/abp-netwok-probe-filters/refs/heads/main/filters.txt`，并且点击`ADD A FILTER LIST`按钮
+1. Open Chrome and go to: `chrome://extensions`
+2. Find `Adblock Plus` and click `Details`
+3. Click `Extension options` to open the Adblock Plus settings page
+4. Go to the `Advanced` tab
+5. Click `Add filter list via URL`
+6. Paste the following URL: `https://raw.githubusercontent.com/cuimingda/abp-netwok-probe-filters/main/filters.txt`
+7. Click `Add a filter list`
