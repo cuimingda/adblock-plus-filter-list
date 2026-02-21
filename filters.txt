@@ -4,5 +4,7 @@
 ! Homepage: https://github.com/cuimingda/adblock-plus-filter-list
 ! Expires: 1 day
 
-*$script,domain=www.baidu.com
+*$domain=www.baidu.com
+@@||www.baidu.com^$document
 www.baidu.com###s_wrap
+
