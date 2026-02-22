@@ -15,7 +15,18 @@ www.baidu.com##.s_top_container
 www.baidu.com###s_wrap
 
 ! so.com
-www.so.com###header
+||360.cn^$domain=www.so.com
+||360kuai.com^$domain=www.so.com
+||360tres.com^$domain=www.so.com
+||api.ssl.so.com^$domain=www.so.com
+||mediav.com^$domain=www.so.com
+||qhimg.com^$domain=www.so.com
+||qhimgs0.com^$domain=www.so.com
+||qhupdate.com^$domain=www.so.com
+www.so.com###ai_search_box
 www.so.com###ai_searchbox_tabs
+www.so.com###ai_tools
 www.so.com###bd_search
+www.so.com###card_container
 www.so.com###footer
+www.so.com###header
