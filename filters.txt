@@ -1,9 +1,9 @@
 [Adblock Plus 3.1]
-! Title: Search Engine Filters
+! Title: Search Engine Filters 1.0.1
 ! Description: Adblock Plus Filters for Search Engines
 ! Homepage: https://github.com/cuimingda/abp-filters-search
 ! Expires: 1 day
-! Build: 2026-02-22 11:39:22
+! Build: 2026-02-22 11:46:20
 
 ! baidu.com
 ||baidu.com^$script,image,domain=www.baidu.com
@@ -26,6 +26,7 @@ www.baidu.com###s_wrap
 ||gstatic.com/_/mss/boq-one-google^$domain=www.google.com
 ||gstatic.com/og^$domain=www.google.com
 ||ogs.google.com^$domain=www.google.com
+||csp.withgoogle.com^$domain=www.google.com
 
 ! so.com
 ||360.cn^$domain=www.so.com
