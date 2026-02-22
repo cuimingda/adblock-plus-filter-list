@@ -1,11 +1,12 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.7
+! Title: Adblock Plus Filters 1.0.8
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
 ! GLOBAL
 ||ad.gt
+||adnxs.com
 ||ads.linkedin.com
 ||adsafeprotected.com
 ||adsrvr.org
@@ -13,21 +14,26 @@
 ||amazon-adsystem.com
 ||analytics.twitter.com
 ||doubleclick.net
+||everesttech.net
 ||flashtalking.com
 ||fls-*.amazon.com
 ||google-analytics.com
 ||googleadservices.com
 ||googletagmanager.com
 ||googletagservices.com
+||idmap.ai
 ||inmobi.com
 ||mediav.com
 ||postrelease.com
 ||pubmatic.com
+||quantserve.com
 ||samplicio.us
 ||scorecardresearch.com
 ||smartadserver.com
 ||stickyadstv.com
+||tapad.com
 ||teads.tv
+||vistarsagency.com
 
 
 
