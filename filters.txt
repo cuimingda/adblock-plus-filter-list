@@ -30,3 +30,10 @@ www.so.com###bd_search
 www.so.com###card_container
 www.so.com###footer
 www.so.com###header
+
+! google.com
+||google.com/*_204^$domain=www.google.com
+||google.com/log^$domain=www.google.com
+||google.com/pagead^$domain=www.google.com
+||googletagmanager.com^$domain=www.google.com
+||googleadservices.com^$domain=www.google.com
