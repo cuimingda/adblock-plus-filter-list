@@ -5,15 +5,10 @@
 ! Expires: 1 day
 
 ! baidu.com
-! ||bdstatic.com^$domain=www.baidu.com
-! ||bcebos.com^$domain=www.baidu.com
-! ||bdimg.com^$domain=www.baidu.com
-! ||baidu.com^$domain=www.baidu.com
-! @@||baidu.com^$document,domain=baidu.com
-
-@@||baidu.com^$document
-*$script,image,stylesheet,font,media,xmlhttprequest,subdocument,object,websocket,ping,other,domain=www.baidu.com
-
+||bdstatic.com^$domain=www.baidu.com
+||bcebos.com^$domain=www.baidu.com
+||bdimg.com^$domain=www.baidu.com
+||baidu.com^$image,domain=www.baidu.com
 www.baidu.com###s_wrap
 www.baidu.com###chat-input-extension
 www.baidu.com##.chat-input-tool
