@@ -1,10 +1,11 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.13
+! Title: Adblock Plus Filters 1.0.14
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
 ! GLOBAL
+||2mdn.net^
 ||acuityplatform.com^
 ||ad.gt^
 ||adform.net^
@@ -23,9 +24,12 @@
 ||bidswitch.net^
 ||bidtheatre.com^
 ||casalemedia.com^
+||chartbeat.net^
 ||company-target.com^
 ||connatix.com^
+||datadoghq-browser-agent.com^
 ||demdex.net^
+||dianomi.com^
 ||dotomi.com^
 ||doubleclick.net^
 ||doubleverify.com^
@@ -35,24 +39,32 @@
 ||fls-*.amazon.com^
 ||google-analytics.com^
 ||googleadservices.com^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||indexww.com^
 ||idmap.ai^
+||imasdk.googleapis.com^
 ||inmobi.com^
 ||inmobicdn.net^
 ||intentiq.com^
+||jwpltx.com^
+||jwpcdn.com^
 ||liadm.com^
 ||mediav.com^
 ||media.net^
+||merequartz.com^
 ||mfadsrvr.com^
 ||ntv.io^
 ||openx.net^
+||permutive.com^
 ||pippio.com^
 ||postrelease.com^
 ||pubmatic.com^
+||pub.network^
 ||quantcount.com^
 ||quantserve.com^
+||qualtrics.com^
 ||rfihub.net^
 ||rfihub.com^
 ||rlcdn.com^
@@ -60,13 +72,17 @@
 ||rqtrk.eu^
 ||samplicio.us^
 ||scorecardresearch.com^
+||segment.com^
+||segment.io^
 ||sitescout.com^
 ||smartadserver.com^
 ||stickyadstv.com^
 ||tapad.com^
 ||teads.tv^
 ||temu.com/api/adx^
+||tru.am^
 ||vistarsagency.com^
+||wretchedfloor.com^
 
 
 
