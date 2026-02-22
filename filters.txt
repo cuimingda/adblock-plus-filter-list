@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.10
+! Title: Adblock Plus Filters 1.0.11
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
@@ -74,8 +74,12 @@ www.baidu.com###s_wrap
 ||google.com/async/hpba^$domain=www.google.com
 
 !imdb.com
-||cdn.prod.metrics.imdb.com/ads^$domain=imdb.com
-||usersync.samplicio.us^$domain=imdb.com
+||metrics.imdb.com^$domain=imdb.com
+||unagi.amazon.com^$domain=imdb.com
+||imdb.com/api/_ajax/metrics^$domain=imdb.com
+
+
+
 
 ! so.com
 ||360.cn^$domain=www.so.com
