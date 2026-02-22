@@ -32,8 +32,18 @@ www.so.com###footer
 www.so.com###header
 
 ! google.com
-||google.com/*_204^$domain=www.google.com
-||google.com/log^$domain=www.google.com
-||google.com/pagead^$domain=www.google.com
-||googletagmanager.com^$domain=www.google.com
-||googleadservices.com^$domain=www.google.com
+||google.com/*_204/^$domain=google.com
+||google.com/log/^$domain=google.com
+||google.com/pagead/^$domain=google.com
+||googletagmanager.com/^$domain=google.com
+||googleadservices.com/^$domain=google.com
+||ogs.google.com/^$domain=www.google.com
+||gstatic.com/_/mss/boq-one-google/^$domain=www.google.com
+||gstatic.com/og/^$domain=www.google.com
+||google.com/u/0/ogw/^$domain=www.google.com
+||google.com/xjs/^$domain=www.google.com
+
+
+
+
+
