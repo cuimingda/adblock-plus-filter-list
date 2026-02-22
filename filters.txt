@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
-! Title: Search Engine Filters 1.0.2
-! Description: Adblock Plus Filters for Search Engines
-! Homepage: https://github.com/cuimingda/abp-filters-search
+! Title: Adblock Plus Filters 1.0.3
+! Description: Adblock Plus Filters
+! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
 ! baidu.com
