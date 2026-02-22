@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
-! Title: Network Probes
-! Description: Network Probe Filters for Adblock Plus
+! Title: Search Engine Filters
+! Description: Filters for Search Engines
 ! Homepage: https://github.com/cuimingda/abp-filters-search
 ! Expires: 1 day
 
