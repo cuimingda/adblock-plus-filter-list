@@ -1,8 +1,12 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.3
+! Title: Adblock Plus Filters 1.0.4
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
+
+
+! GLOBAL
+google-analytics.com/g/collect$xmlhttprequest
 
 ! baidu.com
 ||baidu.com^$script,image,domain=www.baidu.com
@@ -44,3 +48,6 @@ www.so.com###bd_search
 www.so.com###card_container
 www.so.com###footer
 www.so.com###header
+
+! chatgpt.com
+||ab.chatgpt.com/v1/rgstr^$xmlhttprequest,domain=chatgpt.com
