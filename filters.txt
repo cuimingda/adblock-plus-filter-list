@@ -1,12 +1,19 @@
 [Adblock Plus 3.1]
-! Title: Adblock Plus Filters 1.0.4
+! Title: Adblock Plus Filters 1.0.5
 ! Description: Adblock Plus Filters
 ! Homepage: https://github.com/cuimingda/adblock-plus-filters
 ! Expires: 1 day
 
-
 ! GLOBAL
-google-analytics.com/g/collect$xmlhttprequest
+||ad.gt
+||amazon-adsystem.com
+||doubleclick.net
+||fls-*.amazon.com
+||google-analytics.com
+||googleadservices.com
+||googletagmanager.com
+||mediav.com
+||usersync.samplicio.us
 
 ! baidu.com
 ||baidu.com^$script,image,domain=www.baidu.com
@@ -24,20 +31,21 @@ www.baidu.com###s_wrap
 ||google.com/pagead^$domain=www.google.com
 ||google.com/u/0/ogw^$domain=www.google.com
 ||google.com/xjs^$domain=www.google.com
-||googleadservices.com^$domain=www.google.com
-||googletagmanager.com^$domain=www.google.com
 ||gstatic.com/_/mss/boq-one-google^$domain=www.google.com
 ||gstatic.com/og^$domain=www.google.com
 ||ogs.google.com^$domain=www.google.com
 ||csp.withgoogle.com^$domain=www.google.com
 ||google.com/async/hpba^$domain=www.google.com
 
+!imdb.com
+||cdn.prod.metrics.imdb.com/ads^$domain=imdb.com
+||usersync.samplicio.us^$domain=imdb.com
+
 ! so.com
 ||360.cn^$domain=www.so.com
 ||360kuai.com^$domain=www.so.com
 ||360tres.com^$domain=www.so.com
 ||api.ssl.so.com^$domain=www.so.com
-||mediav.com^$domain=www.so.com
 ||qhimg.com^$domain=www.so.com
 ||qhimgs0.com^$domain=www.so.com
 ||qhupdate.com^$domain=www.so.com
